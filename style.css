@@ -1,0 +1,105 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  padding: 100px
+  }
+
+
+.downbanner h1 {
+  color: white;
+  text-shadow: 1px 1px 3px rgb(0,0,0);
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.downbanner p {
+  font-size: 20px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,1);
+  text-align: center;
+}
+
+.navbar-lewagon {
+ justify-content: space-between;
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-lewagon .navbar-brand img {
+  width: 40px;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0,0,0,1);
+  border: white 1px solid
+
+}
+
+.avatar {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.avatar-large {
+  width: 56px;
+  border-radius: 50%;
+}
+
+.avatar-bordered {
+  width: 40px;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.5);
+  border: white 1px solid;
+}
+
+.avatar-square {
+  width: 40px;
+  border-radius: 0px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  border: white 1px solid;
+}
+
+.footer {
+  background: gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+  padding: 0px 50px;
+  color: rgba(0,0,0,0.5);
+}
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+.footer-links a {
+  color: white;
+  opacity: 1;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 0px 10px;
+}
+.footer-links a:hover {
+  opacity: 0.5;
+}
+.footer .fa-heart {
+  color: #D23333;
+}
+
+.carousel-inner {
+padding-left: 60px;
+padding-right: 60px;
+}
+
+.carousel-item {
+padding-left: 60px;
+padding-right: 60px;
+}
+
+
+
+
+
+
